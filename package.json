@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@zondax/filecoin-solidity": "^4.0.3"
+  }
+}
